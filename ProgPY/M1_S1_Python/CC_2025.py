@@ -1,5 +1,3 @@
-###### 22200761
-###### Noa DELAPORTE
 
 ###### SECTION 1 : IMPORTS
 import requests
@@ -122,6 +120,7 @@ printAllBoundingGpx(pos)
 # Nom du fichier : endurance-trail-des-corsaires-2025.gpx.
 # Longueur de la trace : 101.998 km.
 # Dénivelé positif : 4830.0 m.
+
 
 
 
